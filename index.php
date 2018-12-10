@@ -1,3 +1,3 @@
 <?php
-echo 'this is another index page'; 
+echo 'this is another index pag'; 
 ?>
