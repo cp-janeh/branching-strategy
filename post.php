@@ -1,3 +1,3 @@
 <?php
-echo 'this is the post page';
+echo 'this is a post page';
 ?>
